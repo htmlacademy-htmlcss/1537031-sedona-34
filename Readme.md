@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анна](https://up.htmlacademy.ru/htmlcss/34/user/1537031).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
